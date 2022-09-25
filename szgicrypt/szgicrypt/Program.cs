@@ -10,6 +10,44 @@ namespace szgicrypt
     {
         static void Main(string[] args)
         {
+            string password = ("");
+            Console.WriteLine("enter password");
+            string entered = Console.ReadLine();
+            Console.WriteLine(entered);
+            Console.ReadKey();
+
+
+
+
         }
+
+
+
+
+
+
+
+
+
+
+
+        static string encrypt(string[] enc)
+        {
+
+
+
+
+
+
+
+        }
+
+
+
+
+
+
+
+
     }
 }

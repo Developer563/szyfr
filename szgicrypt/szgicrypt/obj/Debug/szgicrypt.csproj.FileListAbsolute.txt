@@ -1,0 +1,8 @@
+C:\Users\Mikołaj\Desktop\szagi crypt\szgicrypt\szgicrypt\bin\Debug\szgicrypt.exe.config
+C:\Users\Mikołaj\Desktop\szagi crypt\szgicrypt\szgicrypt\bin\Debug\szgicrypt.exe
+C:\Users\Mikołaj\Desktop\szagi crypt\szgicrypt\szgicrypt\bin\Debug\szgicrypt.pdb
+C:\Users\Mikołaj\Desktop\szagi crypt\szgicrypt\szgicrypt\obj\Debug\szgicrypt.csproj.AssemblyReference.cache
+C:\Users\Mikołaj\Desktop\szagi crypt\szgicrypt\szgicrypt\obj\Debug\szgicrypt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mikołaj\Desktop\szagi crypt\szgicrypt\szgicrypt\obj\Debug\szgicrypt.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\Desktop\szagi crypt\szgicrypt\szgicrypt\obj\Debug\szgicrypt.exe
+C:\Users\Mikołaj\Desktop\szagi crypt\szgicrypt\szgicrypt\obj\Debug\szgicrypt.pdb

@@ -11,30 +11,21 @@ namespace szagicrypt
         static void Main(string[] args)
         {
 
-            Console.WriteLine("seseclt launglage / wybierz język:");
-
-            Console.WriteLine("1 - pl");
-
-            Console.WriteLine("2 - eng");
+            Lang();
             
 
 
 
         }
 
-
-
-
-
-
-
-
-
-
-
-        static string encrypt(string[] enc, string[] key)
+        static int Lang()
         {
 
+            Console.WriteLine("seseclt launglage / wybierz język:");
+
+            Console.WriteLine("1 - pl");
+
+            Console.WriteLine("2 - eng");
 
 
 
@@ -43,7 +34,26 @@ namespace szagicrypt
 
         }
 
-        static string decrypt(string[] enc, string[]key)
+
+
+
+
+
+
+
+
+        static string Encrypt(string[] enc, string[] key)
+        {
+
+
+
+
+
+            
+
+        }
+
+        static string Decrypt(string[] enc, string[]key)
         {
             
 

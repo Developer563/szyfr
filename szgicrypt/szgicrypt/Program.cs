@@ -18,29 +18,49 @@ namespace szagicrypt
 
         }
 
-        static int Lang()
+        static void Lang()
         {
+
+            string key;
             
-            
-            
-            Console.WriteLine("seseclt launglage / wybierz język:");
+            Console.WriteLine("select launglage / wybierz język:");
 
             Console.WriteLine("1 - pl");
 
             Console.WriteLine("2 - eng");
 
-            Console.ReadKey(char key);
+            key = Console.ReadLine();
 
-            string keystring = Convert.ToString(key);
-
-            if(keystring == ("1"))
+            if (key == "1")
             {
-
-
+                
+                Decrypt("8","5",8);
 
             }
+            else 
+            {
+                if (key == "2")
+                {
 
 
+
+
+
+
+                }
+                else
+                {
+
+                    Console.WriteLine("error");
+
+                    Console.ReadKey();
+                
+                
+                }
+                
+
+            }
+            
         }
 
 
@@ -51,7 +71,7 @@ namespace szagicrypt
 
 
 
-        static string Encrypt(string[] enc, string[] key)
+        static void Encrypt(string[] enc, string[] key, int[] pim)
         {
 
 
@@ -62,7 +82,7 @@ namespace szagicrypt
 
         }
 
-        static string Decrypt(string[] enc, string[]key)
+        static void Decrypt(string enc, string key, int pim)
         {
             
 

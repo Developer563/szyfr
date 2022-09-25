@@ -20,16 +20,25 @@ namespace szagicrypt
 
         static int Lang()
         {
-
+            
+            
+            
             Console.WriteLine("seseclt launglage / wybierz język:");
 
             Console.WriteLine("1 - pl");
 
             Console.WriteLine("2 - eng");
 
+            Console.ReadKey(char key);
+
+            string keystring = Convert.ToString(key);
+
+            if(keystring == ("1"))
+            {
 
 
 
+            }
 
 
         }

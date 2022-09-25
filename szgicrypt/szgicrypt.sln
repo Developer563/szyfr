@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szgicrypt", "szgicrypt\szgicrypt.csproj", "{F12FAB00-FC5E-4EEE-A18E-1CFDB709E191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12FAB00-FC5E-4EEE-A18E-1CFDB709E191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12FAB00-FC5E-4EEE-A18E-1CFDB709E191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12FAB00-FC5E-4EEE-A18E-1CFDB709E191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12FAB00-FC5E-4EEE-A18E-1CFDB709E191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E092085E-B642-4A2B-9AE2-9111E2973930}
+	EndGlobalSection
+EndGlobal

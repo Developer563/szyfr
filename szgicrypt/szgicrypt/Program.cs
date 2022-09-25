@@ -4,18 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace szgicrypt
+namespace szagicrypt
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string password = ("");
-            Console.WriteLine("enter password");
-            string entered = Console.ReadLine();
-            Console.WriteLine(entered);
-            Console.ReadKey();
 
+            Console.WriteLine("seseclt launglage / wybierz język:");
+
+            Console.WriteLine("1 - pl");
+
+            Console.WriteLine("2 - eng");
+            
 
 
 
@@ -31,7 +32,7 @@ namespace szgicrypt
 
 
 
-        static string encrypt(string[] enc)
+        static string encrypt(string[] enc, string[] key)
         {
 
 
@@ -42,7 +43,16 @@ namespace szgicrypt
 
         }
 
+        static string decrypt(string[] enc, string[]key)
+        {
+            
 
+
+
+
+
+
+        }
 
 
 
